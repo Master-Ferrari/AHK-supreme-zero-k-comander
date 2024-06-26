@@ -13,7 +13,7 @@ adding patterns:
 1. open builds.ahk with any notepad
 2. add  
 
-["patter name", [x offset, y offset, x size, y size, first key (group), second key (building itself)] ]  
+``` ["patter name", [x offset, y offset, x size, y size, first key (group), second key (building itself)] ]  ```
 
 - - -- -
 
