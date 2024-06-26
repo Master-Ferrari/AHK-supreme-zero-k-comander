@@ -2,12 +2,12 @@
 2. open zero-k.ahk
 
 keys:
-shift+alt - snap to 100% view
-shift+mouseWheel - select pattern
-shift+ctrl+mouseWheel - pattern scale
-shift+r - rotate
-shift+t - flip
-shift+esc - reset
+- shift+alt - snap to 100% view
+- shift+mouseWheel - select pattern
+- shift+ctrl+mouseWheel - pattern scale
+- shift+r - rotate
+- shift+t - flip
+- shift+esc - reset
 
 adding patterns:
 1. open builds.ahk with any notepad
